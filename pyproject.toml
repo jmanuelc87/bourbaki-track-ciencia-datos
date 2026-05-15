@@ -6,7 +6,9 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "folium>=0.20.0",
+    "gensim>=4.4.0",
     "graphviz>=0.21",
+    "keras>=3.14.1",
     "matplotlib>=3.10.8",
     "nltk>=3.9.3",
     "pandas>=3.0.1",
@@ -19,6 +21,7 @@ dependencies = [
     "spacy-lookups-data>=1.0.5",
     "spacy[lookups]>=3.8.11",
     "statsmodels>=0.14.6",
+    "tensorflow>=2.21.0",
 ]
 
 [dependency-groups]
