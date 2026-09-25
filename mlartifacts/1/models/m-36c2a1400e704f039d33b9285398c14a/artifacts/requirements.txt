@@ -1,6 +1,0 @@
-mlflow==3.16.0
-cloudpickle==3.1.2
-ipython==9.10.0
-keras-hub==0.31.0
-numpy==2.4.2
-tensorflow==2.21.0
