@@ -209,3 +209,7 @@ __marimo__/
 
 # VS Code settings
 .vscode/
+
+
+# mlflow
+mlartifacts/
